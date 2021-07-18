@@ -8,3 +8,6 @@ The code is generalized to deal with any given scenario and possible problems.
 BFS is used to find the paths
 ## TKinter
 The code is visualized using Python tKinter GUI
+## Demo
+![Untitled-68](https://user-images.githubusercontent.com/51533671/126056205-206cb5b5-d734-4675-a3b4-18dc7549b9e8.gif)
+
